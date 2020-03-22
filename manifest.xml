@@ -1,0 +1,19 @@
+<package>
+  <description brief="cv_tutorial">
+
+     cv_tutorial
+
+  </description>
+  <author>Pavel</author>
+  <license>BSD</license>
+  <review status="unreviewed" notes=""/>
+  <url>http://ros.org/wiki/cv_tutorial</url>
+  <depend package="cv_camera"/>
+  <depend package="roslib"/>
+  <depend package="rospy"/>
+  <depend package="std_msgs"/>
+  <depend package="sensor_msgs"/>  
+  <depend package="image_view"/>
+</package>
+
+
